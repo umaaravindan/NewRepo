@@ -30,6 +30,6 @@ class HashSet1 {
 
         /* 6. Check whether the element 3 is present in
         the hashSet or not, and print the result */
-        System.out.println(hashSet.contains(3));
+        System.out.println(hashSet.contains(3)+" ");
     }
 }
